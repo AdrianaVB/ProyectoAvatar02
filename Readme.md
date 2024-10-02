@@ -1,4 +1,5 @@
 <h1>
+src=url('fondo\ avatar4.jpg')
 Proyecto Avatar "Combate Épico - La Leyenda de Aang"</h1>
 <strong>
 
@@ -42,4 +43,4 @@ Navegador web compatible con HTML5 y CSS3
 Conexión a Internet para cargar recursos adicionales
 
 </strong>
-<strong><br>Enlace a Proyecto Avatar: <a href="https://adrianavb.github.io/ProyectoAvatarv02/">Avatarv02</a></strong>
+<strong><br>Enlace a Proyecto Avatar: <a href="https://adrianavb.github.io/ProyectoAvatar02/">Avatarv02</a></strong>
