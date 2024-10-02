@@ -1,8 +1,6 @@
 <h1>
 Proyecto Avatar "Combate Épico - La Leyenda de Aang"</h1>
 <strong>
-<p><em>src="url('fondo\ avatar4.jpg')"width="30">
-  </em></p>
 
 <h2>Introducción</h2>
 
