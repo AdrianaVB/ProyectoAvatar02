@@ -1,7 +1,6 @@
 <h1>
 Proyecto Avatar "Combate Épico - La Leyenda de Aang"</h1>
 <strong>
-
 <h2>Introducción</h2>
 
 Bienvenido al juego "Combate Épico - La Leyenda de Aang", un juego de estrategia y habilidad basado en la popular serie de televisión "Avatar: La Leyenda de Aang". En este juego, podrás elegir a tu personaje favorito y enfrentarte a un enemigo aleatorio en un combate épico.
